@@ -1,1 +1,3 @@
 # Exploring_Data_with_SQL_and_Tableau
+
+This was the first project during my Data Science Bootcamp exploring Data with SQL and Tableau. It uses sales data of an online shop based in Brazil (called Magist database). Magist is a Brazilian Software as a Service company that offers a centralized order management system to connect small and medium-sized stores with the biggest Brazilian marketplaces. In addition, Magist provides after-sales services such as stock and warehouse management, product shipment, and customer service related to the shipment. The presentation discusses whether or not a company in Europe (Eniac) should consider to use the online shop in Brazil to expand their market. 
